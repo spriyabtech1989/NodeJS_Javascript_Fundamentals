@@ -15,6 +15,7 @@ var q = 10;
 var w = "15";
 var t = parseInt(w, 10); //base value = 10
 console.log("t", t);
+
 var u = q+t;
 console.log("u", u);
 var p = "priya";

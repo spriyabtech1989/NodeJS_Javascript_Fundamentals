@@ -14,7 +14,7 @@ console.log(a);
 
 console.log(a.length); //not based zero on length
 
-a.push("snp");
+a.push("psyco");
 
 console.log(a);
 
