@@ -1,7 +1,7 @@
 var a = 10;
 var d = 10;
 var b = "1";
-var c = a+d+b; //101
+var c = a+d+b; //201
 console.log("c", c);
 
 var x = "10";
