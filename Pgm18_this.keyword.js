@@ -73,3 +73,13 @@ let customer1 = {
 
 
 }
+
+let customer2 = {
+    firstName: 'priya1',
+    lastName: 'solai1',
+    age: 32,
+    print: fifth
+
+}
+
+customer2.print();

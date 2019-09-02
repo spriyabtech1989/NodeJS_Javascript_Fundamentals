@@ -6,6 +6,21 @@
 <title>Document</title>
 </head>
     <body>
+ <button onclick="clickHandle(this)" draggable="true" this.className="priya">Click me!</button>
 
+ <script>
+ function clickHandle(arg) {
+console.log("hi");
+console.log(arg);
+//console.log(arg.innerText);
+this.className = 'priyaaa';
+
+console.log(this);
+
+ }
+ </script>
     </body>
 </html>
+
+
+<!-- doubt page -->
