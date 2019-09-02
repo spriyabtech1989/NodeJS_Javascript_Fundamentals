@@ -10,7 +10,7 @@ let z = 10; //Ecma script advanced feature one keyword for LET
 console.log("z Result is:", z);
 
 let firstName = "priya";
-var lastName = "Radha"; //CamelCase variables string values
+var lastName = "Solai"; //CamelCase variables string values
 
 console.log("firstName", firstName);
 console.log("lastName", lastName);

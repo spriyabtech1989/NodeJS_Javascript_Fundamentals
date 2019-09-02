@@ -29,9 +29,9 @@ switch( hero){ //variable declared is husband. will check  the all blocks which 
 
     case 'husband': //this block will be excuted and won't give the break word means all block will be excuted.
         console.log("Wifeku or love panura ponnuku durogam panna kudathu");
-        console.log("Husbandku pinadi yellamuma wife mattum than irukanumnu asapaduva..vera endha thevudya pathium perumaiya soli avala hurt pana kudathu");
+        console.log("Husbandku pinadi yellamuma wife mattum than irukanumnu asapaduva..vera endha ponnu pathium perumaiya soli avala hurt pana kudathu");
         console.log("sex kand mattum avala use pana kudathu avalukum manasu irukunudratha purujukanum");
-        console.log("periods agira endha ponugakitaium ladieskitaum pesa kudathu");
+        console.log("periods agira endha ponugakitaium ladieskitaum unlimited ah pesa kudathu");
         break; //variable block only excuted other case is exit
     case 'kalakadhal':
         console.log('Aayul thandanai alikanum.wife ku theriyama affair vachurukira naikala');

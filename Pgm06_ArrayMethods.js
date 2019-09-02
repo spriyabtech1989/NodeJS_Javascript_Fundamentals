@@ -14,7 +14,7 @@ console.log(a);
 
 console.log(a.length); //not based zero on length
 
-a.push("psyco");
+a.push("Solai");
 
 console.log(a);
 

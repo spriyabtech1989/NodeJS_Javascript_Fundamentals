@@ -5,14 +5,14 @@
 */
 
 for(let i =0 ; i<=10; i++){
-    console.log("Solai poriki kalavani", i); //Excuted will be 0 to 10
+    console.log("Solai narayanan", i); //Excuted will be 0 to 10
 }
 
 //Array using For Loop
 
 let a = [5, 10 , 15, 20]; 
 for (j=0; j< a.length; j++) { //length using for loops
-    console.log('solai durogi', j);
+    console.log('solai priya', j);
 }
 
 let b = [5, 10 , 15, 20]; 
