@@ -22,6 +22,8 @@ let secondHandBike = {
 let newBike = Object.create(secondHandBike);//Prototype is a create the instance of the object
 console.log(newBike.ownerName); // get the value from secondhandbike
 
+
+
 //we have 2 objects. we need to change the exisiting property
 
 console.log(Object.getPrototypeOf(newBike)); //values in newBike... getPrototypeOf
@@ -43,3 +45,8 @@ console.log(secondHandBike.hasOwnProperty('year')); //To check the hasOwnproprty
 console.log(secondHandBike.hasOwnProperty('model')); //To check the hasOwnproprty values
 
 console.log(newBike.hasOwnProperty('model')); //To check the hasOwnproprty values
+
+//change the Property name
+newBike.ownerName = 'Solai Narayanan Moothevi';
+
+console.log(newBike.ownerName);
