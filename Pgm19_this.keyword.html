@@ -6,13 +6,14 @@
 <title>Document</title>
 </head>
     <body>
- <button onclick="clickHandle(this)" draggable="true" this.className="priya">Click me!</button>
+ <button ondblclick="clickHandle(this)" autofocus="true" draggable="true" className="priya"  id="textID">Click me!</button>
 
  <script>
  function clickHandle(arg) {
+    
 console.log("hi");
 console.log(arg);
-//console.log(arg.innerText);
+console.log(arg.innerText);
 this.className = 'priyaaa';
 
 console.log(this);
